@@ -208,7 +208,7 @@ section{
     letter-spacing: -0.2rem;
 }
 .section-container-profile{
-    background-image: url('./img/profile.png');
+    background-image: url('../img/profile.png');
     width: 4rem;
     height: 4rem;
     border-radius: 50%;
